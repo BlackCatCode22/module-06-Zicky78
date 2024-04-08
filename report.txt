@@ -1,0 +1,144 @@
+Animal 01: Wema
+Age: 4
+Species: Hyena
+Sex: female
+Season: spring
+Color: tan
+Weight: 70 lbs
+Origin: Friguia Park, Tunisia
+
+Animal 02: Bud
+Age: 12
+Species: Hyena
+Sex: male
+Season: fall
+Color: brown
+Weight: 150 lbs
+Origin: Friguia Park, Tunisia
+
+Animal 03: Lou
+Age: 4
+Species: Hyena
+Sex: male
+Season: spring
+Color: black
+Weight: 120 lbs
+Origin: Friguia Park, Tunisia
+
+Animal 04: Madoa
+Age: 8
+Species: Hyena
+Sex: female
+Season: season
+Color: black and tan striped
+Weight: 105 lbs
+Origin: Friguia Park, Tunisia
+
+Animal 05: King
+Age: 6
+Species: Lion
+Sex: female
+Season: spring
+Color: tan
+Weight: 300 lbs
+Origin: Zanzibar, Tanzania
+
+Animal 06: Kiara
+Age: 12
+Species: Lion
+Sex: female
+Season: winter
+Color: dark tan
+Weight: 375 lbs
+Origin: KopeLion, Tanzania
+
+Animal 07: Simba
+Age: 22
+Species: Lion
+Sex: male
+Season: fall
+Color: golden
+Weight: 450 lbs
+Origin: Zanzibar, Tanzania
+
+Animal 08: Kimba
+Age: 4
+Species: Lion
+Sex: female
+Season: spring
+Color: tan and brown
+Weight: 275 lbs
+Origin: KopeLion, Tanzania
+
+Animal 09: Amber
+Age: 2
+Species: Tiger
+Sex: male
+Season: spring
+Color: gold and tan stripes
+Weight: 270 lbs
+Origin: Dhaka, Bangladesh
+
+Animal 010: Cuddles
+Age: 4
+Species: Tiger
+Sex: female
+Season: spring
+Color: black stripes
+Weight: 400 lbs
+Origin: Dhaka, Bangladesh
+
+Animal 011: Jiba
+Age: 18
+Species: Tiger
+Sex: male
+Season: fall
+Color: gold and tan
+Weight: 300 lbs
+Origin: Bardia, Nepal
+
+Animal 012: Rajah
+Age: 3
+Species: Tiger
+Sex: female
+Season: spring
+Color: black stripes
+Weight: 285 lbs
+Origin: Bardia, Nepal
+
+Animal 013: Bungle
+Age: 7
+Species: Bear
+Sex: male
+Season: spring
+Color: brown
+Weight: 320 lbs
+Origin: Alaska Zoo, Alaska
+
+Animal 014: Snuggles
+Age: 25
+Species: Bear
+Sex: female
+Season: spring
+Color: black
+Weight: 425 lbs
+Origin: Woodland park Zoo, Washington 
+
+Animal 015: Winnie the Pooh
+Age: 4
+Species: Bear
+Sex: female
+Season: fall
+Color: black
+Weight: 355 lbs
+Origin: Woodland park Zoo, Washington 
+
+Animal 016: Bert
+Age: 4
+Species: Bear
+Sex: male
+Season: spring
+Color: brown
+Weight: 405 lbs
+Origin: Alaska Zoo, Alaska
+
